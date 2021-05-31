@@ -1,4 +1,4 @@
-# anaconda
+# Anaconda
 
 ## linux 安装
 

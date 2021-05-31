@@ -525,9 +525,3 @@ docker pull python:3.7
 ```
 
 后续如果需要安装环境只需要将本机的 requirements.txt 发送到容器中，然后`pip install -r requirements.txt`就可以安装其他包。
-
-## 修改记录
-
-|  作者  | 描述 |    时间    |
-| :----: | :--: | :--------: |
-| lowell | 初稿 | 2020-11-23 |
